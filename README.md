@@ -23,7 +23,7 @@ If successful, Recruit Holdings will be able to market that capability to not on
 - Most of the restaurants in the dataset are located in metropolises in Southern Japan
 - On average customers make reservations 7-8 days in advanced, and reservations are made typically during lunch and dinner time on non-holidays 
 - Tables are reserved mostly for Friday and Saturday 
-- Reservation only accounts for a small fraction of total visits, hence it poses a great challenge for prediction 
+- Reservations only account for a small fraction of total visits, hence it poses a great challenge for prediction 
 ![image](https://user-images.githubusercontent.com/76879882/117076174-99adb900-acfb-11eb-8f99-3ea7e29021de.png)
 
 
