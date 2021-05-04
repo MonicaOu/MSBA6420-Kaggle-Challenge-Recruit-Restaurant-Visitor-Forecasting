@@ -1,7 +1,5 @@
-# Recruit_Restaurant_Visitor_Forecasting
-"""
-Predict how many future visitors a restaurant will receive
-"""
+# Recruit_Restaurant_Visitor_Forecasting: predict how many future visitors a restaurant will receive
+
 
 **DataSource**
 - [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/overview)
